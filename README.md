@@ -1,8 +1,7 @@
 # tstutorial
 TypeScript Tutorial The Net Ninja
 
-# install tsc
-npm install -g typescript
+# Using vanilla ts template vite
 
-# compile use
-tsc sandbox.ts sandbox.js
+npm create vite@latest tstutorial -- --template vanilla-ts
+
